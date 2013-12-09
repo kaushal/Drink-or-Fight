@@ -1,0 +1,7 @@
+Drink or fight is a recursively defined drinking game. 
+
+Usage:
+python dof.py
+
+Rules:
+Take as many drinks as is printed out and then proceed to fight!
